@@ -15,11 +15,11 @@ Download the DinaRemaster.ttf font and install it to your system in whatever way
 **Set your font size to 12 wherever you use this font.** This gives the closest approximation to the original.
 
 # Comparisons
-*Dina.fon vs DinaRemaster.ttf*
+*DinaR.fon vs DinaRemaster.ttf*
 
 ![](images/DinaCompare.gif?raw=true)
 
-*Dina.fon*
+*DinaR.fon*
 
 ![](images/DinaBMP.png?raw=true)
 
