@@ -8,6 +8,9 @@ All basic alphanumeric characters have been correctly copied with correct spacin
 There is no modified bold font accompanying the modified regular font. This means bolded text will not be the same between the bitmap and TTF-type fonts.
 
 # Comparisons
+*Gif DinaBMP to DinaTTFRemastered*
+![](/relative/images/DinaCompare.gif)
 
-
+*DinaBMP and DinaTTFRemastered, respectively*
+![](/relative/images/DinaBMP.png) ![](/relative/images/DinaTTF.png)
 
