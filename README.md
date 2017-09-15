@@ -9,8 +9,8 @@ There is no modified bold font accompanying the modified regular font. This mean
 
 # Comparisons
 *Gif DinaBMP to DinaTTFRemastered*
-![](/../images/DinaCompare.gif)
+![](/../images/DinaCompare.gif?raw=true)
 
 *DinaBMP and DinaTTFRemastered, respectively*
-![](/../images/DinaBMP.png) ![](/../images/DinaTTF.png)
+![](/../images/DinaBMP.png?raw=true) ![](/../images/DinaTTF.png?raw=true)
 
