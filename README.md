@@ -7,7 +7,7 @@ All basic alphanumeric characters have been correctly copied with correct spacin
 
 There is no modified bold font accompanying the modified regular font. This means bolded text will not be the same between the bitmap and TTF-type fonts.
 
-Note that Microsoft's Cleartype system causes a notable visual difference in clarity between bitmap and non-bitmap versions. This has to be adjusted on your end, there's nothing I can do about it.
+Note that Microsoft's Cleartype system causes a notable visual difference in clarity between bitmap and non-bitmap versions. This has to be adjusted on your end, there's nothing I can do about it. Some text editors and IDEs can directly override the system font smoothing option internally, so you can look into that option if you don't want to modify the entire system's smoothing.
 
 # Installation
 Download the DinaRemaster.ttf font and install it to your system in whatever way is needed (real specific, I know!)
