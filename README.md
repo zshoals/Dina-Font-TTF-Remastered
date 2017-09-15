@@ -9,6 +9,11 @@ There is no modified bold font accompanying the modified regular font. This mean
 
 Note that Microsoft's Cleartype system causes a notable visual difference in clarity between bitmap and non-bitmap versions. This has to be adjusted on your end, there's nothing I can do about it.
 
+# Installation
+Download the DinaRemastered.ttf font and install it to your system in whatever way is needed (real specific, I know!)
+
+**Set your font size to 12 wherever you use this font.** This gives the closest approximation to the original.
+
 # Comparisons
 *Gif DinaBMP to DinaTTFRemastered*
 
