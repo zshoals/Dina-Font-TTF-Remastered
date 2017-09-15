@@ -7,10 +7,14 @@ All basic alphanumeric characters have been correctly copied with correct spacin
 
 There is no modified bold font accompanying the modified regular font. This means bolded text will not be the same between the bitmap and TTF-type fonts.
 
+Note that Microsoft's Cleartype system causes a notable visual difference in clarity between bitmap and non-bitmap versions. This has to be adjusted on your end, there's nothing I can do about it.
+
 # Comparisons
 *Gif DinaBMP to DinaTTFRemastered*
-![](/../images/DinaCompare.gif?raw=true)
+
+![](images/DinaCompare.gif?raw=true)
 
 *DinaBMP and DinaTTFRemastered, respectively*
-![](/../images/DinaBMP.png?raw=true) ![](/../images/DinaTTF.png?raw=true)
+
+![](images/DinaBMP.png?raw=true)![](images/DinaTTF.png?raw=true)
 
