@@ -3,7 +3,7 @@ This repository contains a hand-modified version of the original [Dina Bitmap Fo
 
 Other TTF conversions of this font can be found online, but most have severe artifacts as they're not manually adjusted afterwards. For me at least, this makes those converted fonts unusable.
 
-All basic alphanumeric characters have been correctly copied with correct spacing. All symbols for development have been correctly copied as well. **Non-english characters are not guaranteed to be copied correctly and may still contain artifacting. No extra characters have been added compared to the original font.**
+All basic alphanumeric characters have been correctly copied with correct spacing. All commonly used symbols are correctly copied. **Non-english characters are not guaranteed to be copied correctly and may still contain artifacting. No extra characters have been added compared to the original font.**
 
 There is no modified bold font accompanying the modified regular font. This means bolded text will not be the same between the bitmap and TTF-type fonts.
 
