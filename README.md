@@ -10,7 +10,7 @@ There is an accompanying bold font which is nearly a 1:1 copy of the original.
 Note that Microsoft's Cleartype system causes a notable visual difference in clarity between bitmap and non-bitmap versions. This has to be adjusted on your end, there's nothing I can do about it. Some text editors and IDEs can directly override the system font smoothing option internally, so you can look into that option if you don't want to modify the entire system's smoothing.
 
 # Installation
-Download the DinaRemasterCollection.ttc font and install it to your system in whatever way is needed (real specific, I know!)
+Download the DinaRemasterCollection.ttc font collection and install it to your system in whatever way is needed (real specific, I know!)
 
 **Set your font size to 12 wherever you use this font for proper scaling.** 
 
