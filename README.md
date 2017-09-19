@@ -1,7 +1,7 @@
 # Dina Font TTF Remastered
 This repository contains a hand-modified version of the original 10pt [Dina Bitmap Font,](https://www.donationcoder.com/Software/Jibz/Dina/) converted to TTF format to increase its accessibility. The goal is to have as close to a one-to-one conversion as possible for main-use text.
 
-Other TTF conversions of this font can be found online, but most have severe artifacts as they're not manually adjusted afterwards. For me at least, this makes those converted fonts unusable.
+Other TTF conversions of this font can be found online, but most have severe artifacts as they're not manually adjusted afterwards. Others are "hacks" that maintain the bitmap elements of the original but do not function **at all** if any scaling is applied. For me at least, this makes those converted fonts unusable.
 
 All basic alphanumeric characters have been correctly copied with correct spacing. All commonly used symbols are correctly copied. **Non-english characters are not guaranteed to be copied correctly and may still contain artifacting.** One or two characters that were missing (like the Euro) were added.
 
