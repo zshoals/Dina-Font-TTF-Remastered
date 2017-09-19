@@ -15,13 +15,13 @@ Download the DinaRemasterCollection.ttc font and install it to your system in wh
 **Set your font size to 12 wherever you use this font for proper scaling.** 
 
 # Comparisons
-*Dina Regular vs DinaRemaster Regular
+*Dina Regular vs DinaRemaster Regular*
 
-![](images/RegularCompare.gif?raw=true)
+![](Images/RegularCompare.gif?raw=true)
 
-*Dina Bold vs DinaRemaster Bold
+*Dina Bold vs DinaRemaster Bold*
 
-![](images/BoldCompare.gif?raw=true)
+![](Images/BoldCompare.gif?raw=true)
 
 # License
 
