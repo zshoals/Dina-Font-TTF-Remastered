@@ -1,3 +1,7 @@
+# Update 12/20/2020
+A slight edit of the original Dina font has been added to this repository as well. The original, DinaRemasterCollection.ttc, is still available, and is still a direct copy of Dina. However, DinaRemasterII.ttc contains a few edits. The + sign has been enlarged by 1px in all directions, the = sign has been spaced out by 1px vertically, and Z has had its slash portion rearranged to make it appear less like the number 2.
+
+There's no comparison images added for these changes, so all comparisons are from Dina to DinaRemasterCollection.ttc.
 # Dina Font TTF Remastered
 This repository contains a hand-modified version of the original 10pt [Dina Bitmap Font,](https://www.donationcoder.com/Software/Jibz/Dina/) converted to TTF format to increase its accessibility. The goal is to have as close to a one-to-one conversion as possible for main-use text.
 
